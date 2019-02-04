@@ -1,6 +1,7 @@
 {
     "name": "simplonprod/phpcs-githooks",
     "description": "Add PHP Code Sniffer to githook to enforce PHP code base clean",
+    "bin": ["bin/phpcs-githooks"],
     "require": {
         "squizlabs/php_codesniffer": "3.*"
     }
